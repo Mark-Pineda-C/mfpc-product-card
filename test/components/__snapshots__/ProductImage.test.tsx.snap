@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage debe mostrar la imagen desde componente padre 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="./coffe-mug.png"
+  />
+</div>
+`;
+
+exports[`ProductImage debe mostrar la imagen ingresada por usuario 1`] = `
+<img
+  alt="Product"
+  className="productImg undefined"
+  src="./coffe-mug.png"
+/>
+`;
